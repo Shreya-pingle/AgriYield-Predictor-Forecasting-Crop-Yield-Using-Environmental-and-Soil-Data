@@ -4,6 +4,9 @@ An AI-powered agriculture decision support system that predicts crop yield based
 
 ---
 
+## 🔗 GitHub Repository
+https://github.com/Shreya-pingle/AgriYield-Predictor-Forecasting-Crop-Yield-Using-Environmental-and-Soil-Data
+
 ## 🚀 Project Overview
 
 AgriYield AI is a Machine Learning-based web application built using Streamlit that helps estimate crop yield (kg/hectare) using key agricultural factors such as:
@@ -164,7 +167,7 @@ Production = Yield × Area
 ### Step 1: Clone Repository
 ---
 bash
-git clone https://github.com/your-username/agriyield-ai.git
+git clone https://github.com/Shreya-pingle/AgriYield-Predictor-Forecasting-Crop-Yield-Using-Environmental-and-Soil-Data
 cd agriyield-ai
 
 Step 2: Create Virtual Environment
@@ -179,8 +182,8 @@ Step 4: Run Application
 python -m streamlit run app.py
 
 📁 Project Structure
+
 agriyield-ai/
-│
 ├── app.py                  # Main Streamlit application
 ├── yield_model.pkl         # Trained ML model
 ├── dataset.xlsx            # Dataset
